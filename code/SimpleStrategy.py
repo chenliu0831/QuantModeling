@@ -1,4 +1,3 @@
-import numpy as np
-import scipy as sp 
+import numpy as np 
 
 print 'this is first commit'
